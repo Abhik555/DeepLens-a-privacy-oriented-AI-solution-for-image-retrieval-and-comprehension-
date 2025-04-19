@@ -25,3 +25,4 @@ dist-ssr
 request.py
 tempCodeRunnerFile.py
 *.gguf
+.bolt
